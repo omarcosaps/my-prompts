@@ -1,0 +1,3 @@
+Leia os arquivos reviews.csv e crie um dashboard com base no reviews.csv da pasta do projeto, mostrando uma visão geral dos sentimentos dos clientes.
+O dashboard deve conter: um resumo no topo com o total de avaliações e a quantidade de cada sentimento (satisfeito, insatisfeito, neutro); 
+um gráfico de pizza com a proporção dos sentimentos; um gráfico de barras com a média das notas por sentimento; e, abaixo, uma tabela listando todas as avaliações, com filtros por sentimento e por nota.
